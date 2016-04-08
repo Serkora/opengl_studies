@@ -1,0 +1,11 @@
+# Blender MTL File: 'Woman.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 11.764706
+Ka 0.000000 0.000000 0.000000
+Kd 0.000501 0.003928 0.640000
+Ks 0.000000 1.000000 0.006204
+Ni 1.000000
+d 0.800000
+illum 2
